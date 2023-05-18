@@ -3,7 +3,7 @@ const colors = require("colors")
 const app = express()
 const cors = require('cors')
 require('dotenv').config()
-const port = process.env.URL_BACKEND || 3001
+const port = process.env.PORT|| 3001
 
 const products = require("./products.json")
 
