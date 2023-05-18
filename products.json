@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "name": "Dios Man",
+        "price": 29,
+        "description": "Dan Jukes"
+      },
+      {
+        "name": "Chau Man",
+        "price": 29,
+        "description": "Dan Jukes"
+      },
+      {
+        "name": "Holi Man",
+        "price": 29,
+        "description": "Dan Jukes"
+      }
+    ]
+  }
+  
